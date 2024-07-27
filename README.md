@@ -1,14 +1,14 @@
 <table style="border: none;">
   <tr style="border: none;">
-    <td style="width: 60%; border: none;">
+    <td style="border: none;">
         <h3 style="font-size:24px;">💫 About Me</h3>
         <div align="justify">
 
 I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands on is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any questions just ask me 😊.   
         </div>
     </td>
-    <td style="width: 40%; border: none;">
-        <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="400"/>
+    <td style="border: none;">
+        <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="3000"/>
     </td>
   </tr>
   <tr style="border: none;">
