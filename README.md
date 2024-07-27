@@ -1,30 +1,38 @@
-<div id="header" align="center">
+<div class="container" style="display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+    gap: 0px 0px;
+    grid-template-areas: 
+      "aboutme aboutme image"
+      "aboutme aboutme social";">
+  <div class="aboutme" style="grid-area: aboutme;">
+    <h3 style="font-size:24px;">💫 About Me</h3>
+    <div align="justify">
 
-![ananda](https://github.com/user-attachments/assets/28f18569-e6a2-4eb3-83d5-cd77b684fab8)
+I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands on is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any questions just ask me 😊.
+    </div>
+  </div>
+  <div class="image" style="grid-area: image;">
 
-
-
-</div>
-<div id="header" align="center">
+![ananda](https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195)
+  </div>
+  <div class="social" style="grid-area: social;">
+    <div id="header" align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-henna-three.vercel.app/)
-</div>
+    </div>
+    <div id="header" align="center">
 
-<div id="header" align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/525228460956844052)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@anandaartiwidigdo2703) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-arti-widigdo)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/525228460956844052) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@anandaartiwidigdo2703) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-arti-widigdo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anandaaw17)
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31b44bpk6rs6ma44htsr5madawfi) 
 [![Soundcloud](https://img.shields.io/badge/Soundcloud-%23FF8800.svg?style=for-the-badge&logo=Soundcloud&logoColor=white)](https://soundcloud.com/ndaaw) 
+    </div>
+  </div>
 </div>
 
-
-
-<h3 style="font-size:24px;">💫  About Me</h3>
-<div align="justify">
-
-I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands in is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any question just ask me 😊. 
-</div>
 
 <!--<h3 style="font-size:24px;">🌐 Socials</h3>-->
 <!--<div align="center">-->
