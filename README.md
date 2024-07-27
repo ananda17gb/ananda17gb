@@ -20,7 +20,7 @@ I'm an **informatics** student at _Telkom University Bandung_ who is interested 
       <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/525228460956844052) 
-        [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@anandaartiwidigdo2703) 
+        [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@anandaartiwidigdo2703) 
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-arti-widigdo)
         [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anandaaw17)
         [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31b44bpk6rs6ma44htsr5madawfi) 
