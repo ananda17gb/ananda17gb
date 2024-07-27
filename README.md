@@ -1,4 +1,4 @@
-<div class="container" style="display: grid; grid-template-columns: 1fr 1fr 1fr;grid-template-rows: auto auto;gap: 0px 0px;">
+<div class="container" style="display: grid; grid-template-columns: 1fr 1fr 1fr;grid-template-rows: 1fr 1fr;gap: 0px 0px;">
   <div class="aboutme" style="display:flex; flex-direction:column; justify-items:center; margin:auto; grid-area: 1 / 1 / 3 / 3;">
     <h3 style="font-size:24px;">💫 About Me</h3>
     <div align="justify">
