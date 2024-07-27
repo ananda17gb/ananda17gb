@@ -1,6 +1,6 @@
 <table border="0">
-  <tr>
-    <td>
+  <tr border="0">
+    <td border="0">
         <h3 style="font-size:24px;">💫 About Me</h3>
         <div align="justify">
 
