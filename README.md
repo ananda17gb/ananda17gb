@@ -68,6 +68,7 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
 ![](https://github-contributor-stats.vercel.app/api?username=ananda17gb&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </div>
 
+<hr/>
 <div align="center">
 <img src="https://gifdb.com/images/high/lonely-spongebob-meme-a86er4dq5rntdzii.gif" width="300"/>
 
