@@ -2,7 +2,7 @@
   <tr>
     <td>
       
-### 👋 Hi, _**Ananda**_ here
+<h3 style="font-size:24px;">👋 Hi, <strong><em>Ananda</em></strong> here!</h3> 
         <div align="justify">
         
 I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands on is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any questions just ask me 😊.   
