@@ -1,9 +1,10 @@
 <table>
   <tr>
     <td>
-        <h3 style="font-size:24px;">👋 Hi, <span style="font-weight: bold; font-style: italic;">Ananda</span> here</h3>
+      
+### 👋 Hi, _**Ananda**_ here
         <div align="justify">
-
+        
 I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands on is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any questions just ask me 😊.   
         </div>
     </td>
