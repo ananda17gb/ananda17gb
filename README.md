@@ -31,12 +31,6 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
   </tr>
 </table>
 
-<!--<h3 style="font-size:24px;">🌐 Socials</h3>-->
-<!--<div align="center">-->
-
-<!--[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/525228460956844052) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anandaaw17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-arti-widigdo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anandaartiwidigdo2703) -->
-<!--</div>-->
-
 <h3 style="font-size:24px;">💻 Tech Stack</h3>
 <div align="justify">
 
@@ -46,15 +40,15 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
 <h3 style="font-size:24px;">📊 GitHub Stats</h3>
 <div align="center" style="display: flex;justify-content: center;">
 
-![](https://github-readme-stats.vercel.app/api?username=ananda17gb&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false) \
-![](https://github-readme-streak-stats.herokuapp.com/?user=ananda17gb&theme=gruvbox&hide_border=false) \
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananda17gb&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ananda17gb&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false) \
+![](https://github-readme-streak-stats.herokuapp.com/?user=ananda17gb&theme=gruvbox&hide_border=true) \
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ananda17gb&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <h3 style="font-size:24px;">🏆 GitHub Trophies</h3>
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ananda17gb&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ananda17gb&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 </div>
 
 <h3 style="font-size:24px;">✍️ Random Dev Quote</h3>
