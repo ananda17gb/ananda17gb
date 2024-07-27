@@ -1,6 +1,6 @@
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
+<table border="0">
+  <tr>
+    <td>
         <h3 style="font-size:24px;">💫 About Me</h3>
         <div align="justify">
 
