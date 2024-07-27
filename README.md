@@ -26,6 +26,12 @@ I'm an **informatics** student at _Telkom University Bandung_ who is interested 
         [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31b44bpk6rs6ma44htsr5madawfi) 
         [![Soundcloud](https://img.shields.io/badge/Soundcloud-%23FF8800.svg?style=for-the-badge&logo=Soundcloud&logoColor=white)](https://soundcloud.com/ndaaw) 
       </div>
+      <div align="center">
+      
+[![Codewars](https://img.shields.io/badge/Codewars-%23B1361E.svg?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/ananda17gb)
+[![LeetCode](https://img.shields.io/badge/Leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user6081XZ/)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ananda_widigdo17)
+      </div>
     </td>
   </tr>
 </table>
