@@ -8,7 +8,7 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
         </div>
     </td>
     <td>
-        <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="1000"/>
+        <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="1200"/>
     </td>
   </tr>
   <tr>
