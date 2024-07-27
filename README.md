@@ -73,4 +73,4 @@ I'm an **informatics** student at _Telkom University Bandung_ who is interested 
 <div align="center">
   <img src="https://gifdb.com/images/high/lonely-spongebob-meme-a86er4dq5rntdzii.gif" width="300"/>
 
-[![](https://visitcount.itsvg.in/api?id=ananda17gb&icon=5&color=2)]
+![](https://visitcount.itsvg.in/api?id=ananda17gb&icon=5&color=2)
