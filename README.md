@@ -1,18 +1,18 @@
-<table border="0">
-  <tr border="0">
-    <td border="0">
+<table>
+  <tr>
+    <td>
         <h3 style="font-size:24px;">💫 About Me</h3>
         <div align="justify">
 
 I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands on is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any questions just ask me 😊.   
         </div>
     </td>
-    <td style="border: none;">
-        <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="3000"/>
+    <td>
+        <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="3200"/>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td colspan="2" style="border: none;">
+  <tr>
+    <td colspan="2">
         <div align="center">
     
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-henna-three.vercel.app/)
@@ -30,8 +30,6 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
   </tr>
 </table>
 
-
-
 <!--<h3 style="font-size:24px;">🌐 Socials</h3>-->
 <!--<div align="center">-->
 
@@ -45,7 +43,6 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
 </div>
 
 <h3 style="font-size:24px;">📊 GitHub Stats</h3>
-
 <div align="center" style="display: flex;justify-content: center;">
 
 ![](https://github-readme-stats.vercel.app/api?username=ananda17gb&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false) \
@@ -70,7 +67,6 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
 
 ![](https://github-contributor-stats.vercel.app/api?username=ananda17gb&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </div>
-
 
 <div align="center">
 <img src="https://gifdb.com/images/high/lonely-spongebob-meme-a86er4dq5rntdzii.gif" width="300"/>
