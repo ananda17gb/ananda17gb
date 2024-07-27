@@ -1,31 +1,35 @@
-<div class="container" style="display: grid; grid-template-columns: 1fr 1fr 1fr;grid-template-rows: 1fr 1fr;gap: 0px 0px;">
-  <div class="aboutme" style="display:flex; flex-direction:column; justify-items:center; margin:auto; grid-area: 1 / 1 / 3 / 3;">
-    <h3 style="font-size:24px;">💫 About Me</h3>
-    <div align="justify">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="width: 60%; border: none;">
+        <h3 style="font-size:24px;">💫 About Me</h3>
+        <div align="justify">
 
-I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands on is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any questions just ask me 😊.
-    </div>
-  </div>
-  <div class="image" style="grid-area: 1 / 3 / 2 / 4;">
-
-![ananda](https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195)
-  </div>
-  <div class="social" style="grid-area: 2 / 3 / 3 / 4;">
-    <div id="header" align="center">
-
+I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands on is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any questions just ask me 😊.   
+        </div>
+    </td>
+    <td style="width: 40%; border: none;">
+        <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="400"/>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td colspan="2" style="border: none;">
+        <div align="center">
+    
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-henna-three.vercel.app/)
-    </div>
-    <div id="header" align="center">
-
+        </div>
+        <div align="center">
+      
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/525228460956844052) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@anandaartiwidigdo2703) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananda-arti-widigdo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/anandaaw17)
 [![Spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/31b44bpk6rs6ma44htsr5madawfi) 
 [![Soundcloud](https://img.shields.io/badge/Soundcloud-%23FF8800.svg?style=for-the-badge&logo=Soundcloud&logoColor=white)](https://soundcloud.com/ndaaw) 
-    </div>
-  </div>
-</div>
+        </div>
+    </td>
+  </tr>
+</table>
+
 
 
 <!--<h3 style="font-size:24px;">🌐 Socials</h3>-->
@@ -66,11 +70,9 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
 
 ![](https://github-contributor-stats.vercel.app/api?username=ananda17gb&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 </div>
-
 ---
 <div align="center">
 <img src="https://gifdb.com/images/high/lonely-spongebob-meme-a86er4dq5rntdzii.gif" width="300"/>
-
 
 [![](https://visitcount.itsvg.in/api?id=ananda17gb&icon=5&color=2)](https://visitcount.itsvg.in)
 </div>
