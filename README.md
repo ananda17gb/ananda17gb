@@ -30,7 +30,7 @@ I'm an **informatics** student at _Telkom University Bandung_ who is interested 
   </tr>
 </table>
 
-<h3 style="font-size:24px;">😄 Fun Fact About Me</h3>
+<h3 style="font-size:24px;">😄 Some Fun Facts About Me</h3>
 
 - Interested in OS that uses the least amount of RAM and storage but is still usable and just works.
 - Use Linux because of my last point and also because I was bored and not feeling satisfied with Windows. After distro hopping from Mint, Manjaro, Endeavour, and Arch, I finally settled on Fedora with the i3 window manager (you can see a bit of my dotfiles and screenshots of my desktop [here](https://github.com/ananda17gb/MyDotfiles)).
