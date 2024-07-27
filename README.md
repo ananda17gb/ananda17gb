@@ -28,9 +28,9 @@ I'm an **informatics** student at _Telkom University Bandung_ who is interested 
       </div>
       <div align="center">
       
-[![Codewars](https://img.shields.io/badge/Codewars.svg?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/ananda17gb)
-[![LeetCode](https://img.shields.io/badge/Leetcode.svg?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/user6081XZ/)
-[![HackerRank](https://img.shields.io/badge/Hackerrank.svg?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/ananda_widigdo17)
+[![Codewars](https://img.shields.io/badge/Codewars-%23b1361e.svg?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/ananda17gb)
+[![LeetCode](https://img.shields.io/badge/Leetcode-%23000000.svg?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/user6081XZ/)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-%230000.svg?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/ananda_widigdo17)
       </div>
     </td>
   </tr>
