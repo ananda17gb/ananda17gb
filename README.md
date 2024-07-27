@@ -60,7 +60,7 @@ I'm an **informatics** student at _Telkom University Bandung_ who are interested
 <h3 style="font-size:24px;">🔝 Top Contributed Repo</h3>
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=ananda17gb&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ananda17gb&limit=5&theme=gruvbox&hide_border=true&combine_all_yearly_contributions=true)
 </div>
 
 <hr/>
