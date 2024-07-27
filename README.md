@@ -1,22 +1,16 @@
-<div class="container" style="display: grid;
-    grid-template-columns: auto auto auto;
-    grid-template-rows: auto auto;
-    gap: 0px 0px;
-    grid-template-areas: 
-      "aboutme aboutme image"
-      "aboutme aboutme social";">
-  <div class="aboutme" style="grid-area: aboutme;">
+<div class="container" style="display: grid; grid-template-columns: 1fr 1fr 1fr;grid-template-rows: auto auto;gap: 0px 0px;">
+  <div class="aboutme" style="display:flex; flex-direction:column; justify-items:center; margin:auto; grid-area: 1 / 1 / 3 / 3;">
     <h3 style="font-size:24px;">💫 About Me</h3>
     <div align="justify">
 
 I'm an **informatics** student at _Telkom University Bandung_ who are interested in **software development** whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Some other thing that I want to get my hands on is **game development** but we'll see. Other than coding I'm also interested in **UI/UX design** and **music production**. If you have any questions just ask me 😊.
     </div>
   </div>
-  <div class="image" style="grid-area: image;">
+  <div class="image" style="grid-area: 1 / 3 / 2 / 4;">
 
 ![ananda](https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195)
   </div>
-  <div class="social" style="grid-area: social;">
+  <div class="social" style="grid-area: 2 / 3 / 3 / 4;">
     <div id="header" align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-henna-three.vercel.app/)
