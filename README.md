@@ -1,5 +1,6 @@
 <div id="header" align="center">
-![ananda](https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195)
+![ananda](https://github.com/user-attachments/assets/28f18569-e6a2-4eb3-83d5-cd77b684fab8)
+
 
 
 </div>
