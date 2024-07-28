@@ -1,19 +1,9 @@
-<table>
-  <tr>
-    <td>
-      <h3 style="font-size:24px;">👋 Hi, <strong><em>Ananda</em></strong> here!</h3> 
-      <div align="justify">
-      
-I'm an **informatics** student at _Telkom University Bandung_ who is interested in **software development**, whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Another area I want to explore is **game development**, but we'll see. Besides coding, I'm also interested in **UI/UX design** and **music production**. If you have any questions, just ask me 😊.
-      </div>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="1000"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div align="center">
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="320"/>
+</div>
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-henna-three.vercel.app/)
       </div>
@@ -32,9 +22,14 @@ I'm an **informatics** student at _Telkom University Bandung_ who is interested 
 [![LeetCode](https://img.shields.io/badge/Leetcode-%23282828.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/user6081XZ/)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-%230E141E.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ananda_widigdo17)
       </div>
-    </td>
-  </tr>
-</table>
+
+
+<h3 style="font-size:24px;">👋 Hi, <strong><em>Ananda</em></strong> here!</h3> 
+      <div align="justify">
+      
+I'm an **informatics** student at _Telkom University Bandung_ who is interested in **software development**, whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Another area I want to explore is **game development**, but we'll see. Besides coding, I'm also interested in **UI/UX design** and **music production**. If you have any questions, just ask me 😊.
+      </div>
+
 
 <h3 style="font-size:24px;">😄 Some Fun Facts About Me</h3>
 
