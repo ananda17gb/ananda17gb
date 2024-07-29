@@ -1,7 +1,7 @@
-
 <div align="center">
 <img src="https://github.com/user-attachments/assets/671c2f60-dd8a-4135-9e1f-01037a574195" width="320"/>
 </div>
+<h3 style="font-size:28px;" align="center"><strong><em>Ananda</em></strong> Arti Widigdo<h3>
 <br/>
 <div align="center">
 
@@ -24,7 +24,7 @@
       </div>
 
 
-<h3 style="font-size:24px;">👋 Hi, <strong><em>Ananda</em></strong> here!</h3> 
+<h3 style="font-size:24px;">👋 Hi there!</h3> 
       <div align="justify">
       
 I'm an **informatics** student at _Telkom University Bandung_ who is interested in **software development**, whether it is **web** development or **mobile** development. I use **ReactJS** for web and **Flutter** for mobile. I also use **Firebase** for databases. Another area I want to explore is **game development**, but we'll see. Besides coding, I'm also interested in **UI/UX design** and **music production**. If you have any questions, just ask me 😊.
