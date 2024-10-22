@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-henna-three.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioku-nda.vercel.app/)
       </div>
       <div align="center">
 
