@@ -5,7 +5,9 @@
 <br/>
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioku-nda.vercel.app/)
+<a href="https://portfolioku-nda.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+</a>
       </div>
       <div align="center">
 
